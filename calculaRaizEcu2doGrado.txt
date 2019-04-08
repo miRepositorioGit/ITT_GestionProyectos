@@ -1,0 +1,32 @@
+# calculaRaizEcu2doGrado.py
+# Calcula la raices de una ecuación de la forma ax^2+bx+c=0
+#
+# Coeficientes an0 estan representados por la lista an0=[a,b,c],
+# donde: {a,b,c} pertenece a los Reales y an0 <>0.
+#
+# Se calcula el discriminante = b^2 - 4ac.
+#
+# Si, discriminante > 0. Entonces CASO I. Donde, las raices son reales distintas
+# y conjugadas. (x1,x2) = -b/2a +- ((discriminante)^1/2)/2a
+#
+# Si, discriminante = 0. Entonces CASO II. Donde, la raiz real es tangente
+# a la recta en X. (x1,x2) = -b/2a
+#
+# Si, dicriminante < 0. Entonces CASO III. Donde, las raices son imaginarias conjugadas
+# y conjugadas. (x1,x2) = -b/2a +- i ((discriminante)^1/2)/2a
+
+
+
+
+#
+# fuentes:
+# http://docs.python.org.ar/tutorial/3/datastructures.html
+#
+# Computación científica con Python para módulos de evaluación continua en asignaturas de ciencias aplicadas
+# http://webs.ucm.es/info/aocg/python/modulos_cientificos/numpy/index.html
+#
+# Ecuaciones de Segundo Grado - by xassiz
+# https://foro.elhacker.net/scripting/python_ecuaciones_de_segundo_grado_by_xassiz-t284796.0.html
+#
+# Números complejos con Python
+# https://relopezbriega.github.io/blog/2015/10/12/numeros-complejos-con-python/
