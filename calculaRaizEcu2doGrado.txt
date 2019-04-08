@@ -14,12 +14,10 @@
 #
 # Si, dicriminante < 0. Entonces CASO III. Donde, las raices son imaginarias conjugadas
 # y conjugadas. (x1,x2) = -b/2a +- i ((discriminante)^1/2)/2a
-
-
-
-
 #
 # fuentes:
+# Baldor Aurelio. Algebra. Capítulo 
+#
 # http://docs.python.org.ar/tutorial/3/datastructures.html
 #
 # Computación científica con Python para módulos de evaluación continua en asignaturas de ciencias aplicadas
