@@ -16,7 +16,7 @@
 # y conjugadas. (x1,x2) = -b/2a +- i ((discriminante)^1/2)/2a
 #
 # fuentes:
-# Baldor Aurelio. Algebra. Capítulo 
+# Baldor Aurelio. Algebra. Capítulo XXXII Ecuaciones de segundo grado con una incognita. pag. 446.
 #
 # http://docs.python.org.ar/tutorial/3/datastructures.html
 #
